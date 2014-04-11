@@ -1,0 +1,20 @@
+TODO
+----
+
+- Quadtree will be very much game specific and not a general implementation.
+- Make levels from pre-defined map pieces:
+  - Need wall, floor and subdivide tokens
+
+    # # # #
+    # . . #
+    # . + #
+    # # # #
+
+- Add an edit() method to EditMode that can handle the undo stack.
+- Put EditMode controls through some framework that makes it easier to handle.
+
+- change Viewport to take an aabb
+  - then similarise it to screen coords
+  - need screenToWorld and worldToScreen
+  - need setup
+  - don't need constraints or dampening for now

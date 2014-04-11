@@ -1,0 +1,6 @@
+.DS_Store
+*.app
+*.exe
+*.sublime-project
+*.sublime-workspace
+bin

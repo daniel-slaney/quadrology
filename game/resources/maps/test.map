@@ -1,0 +1,190 @@
+return {
+ {
+  {
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+  },
+  {
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+  },
+  {
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+  },
+  {
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+  },
+ },
+ {
+  {
+   ["terrain"] = "wall",
+  },
+  {
+   ["terrain"] = "wall",
+  },
+  {
+   ["terrain"] = "floor",
+  },
+  {
+   ["terrain"] = "wall",
+  },
+ },
+ {
+  {
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+  },
+  {
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+  },
+  {
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+  },
+  {
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+  },
+ },
+ {
+  {
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+  },
+  {
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+  },
+  {
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+  },
+  {
+   {
+    ["terrain"] = "floor",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+   {
+    ["terrain"] = "wall",
+   },
+  },
+ },
+}
